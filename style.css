@@ -4,7 +4,7 @@ p{
 h1{
     color:greenyellow;
     text-align:center;
-    text-decoration:black underline overline line-through ;
+    text-decoration:black underline overline ;
 }
 a{
     text-decoration:none;
