@@ -1,0 +1,15 @@
+p{
+    text-align:center;
+}
+h1{
+    color:greenyellow;
+    text-align:center;
+    text-decoration:black underline overline line-through ;
+}
+a{
+    text-decoration:none;
+}
+body{ 
+    background-color:rgb(41, 82, 82)
+}
+
